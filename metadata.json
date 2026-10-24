@@ -1,0 +1,6 @@
+{
+  "name": "SevaPrint Hub - 3-in-1 Business Portal",
+  "description": "Integrated Business Portal for CSC Digital Services, Mobile Repairing, and Custom Printing Hub with 8-stage order lifecycle, customer design approval gate, and accounting ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
